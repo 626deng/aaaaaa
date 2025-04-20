@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         String s="svah";
         Log.d("a",s);
     }
+
+    void b()
+    {
+
+    }
 }
